@@ -35,6 +35,7 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sagiv1996&hide_border=true)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagiv1996&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagiv1996&theme=algolia)
