@@ -1,3 +1,5 @@
+![]GitHub Streak](https://streak-stats.demolab.com?user=sagiv1996&hide_border=true)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagiv1996&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagiv1996&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagiv1996&theme=algolia)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sagiv1996&hide_border=true)](https://git.io/streak-stats)
