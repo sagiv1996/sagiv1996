@@ -1,4 +1,4 @@
-![]GitHub Streak](https://streak-stats.demolab.com?user=sagiv1996&hide_border=true)](https://git.io/streak-stats)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagiv1996&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagiv1996&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagiv1996&theme=algolia)
